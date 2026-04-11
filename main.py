@@ -52,3 +52,5 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+    
+print("This is a simple calculator program that performs basic arithmetic operations. You can add, subtract, multiply, or divide two numbers. The program will continue to run until you choose to exit.")
